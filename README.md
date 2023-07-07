@@ -16,23 +16,33 @@
 
 <div aling="center">
 <img aling="right" src="https://github-readme-stats.vercel.app/api?username=coltensiemer&show_icons=true&locale=en&theme=radical" alt="coltensiemer" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=coltensiemer&theme=radical" alt="coltensiemer" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=coltensiemer&theme=radical" alt="coltensiemer" />
 </div>
 
+🌱 I’m currently learning ...
+
+  React Native while exploring the SQL and rational databases. 
 
 
+🔭 I’m currently working on ...
+  
+ A React Native project that will focus on Unit Testing with Jest, SQL queries to a Postgres Database, and much more! 
+
+  📫 How to reach me: ...
+
+  Either send me a message on Github or Linkedin! 
 
 <!--
 **Coltensiemer/coltensiemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

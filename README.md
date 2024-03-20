@@ -21,12 +21,12 @@
 
 🌱 I’m currently learning ...
 
-  React Native while exploring the SQL and rational databases. 
+  NextJS applications and working on AWS Cloud Practioner Cert. 
 
 
 🔭 I’m currently working on ...
   
- A React Native project that will focus on Unit Testing with Jest, SQL queries to a Postgres Database, and much more! 
+An AWS Quiz learn that will storage large amounts of Questions with answers that anyone could use to Study for the cloud Cractioner cert. 
 
   📫 How to reach me: ...
 

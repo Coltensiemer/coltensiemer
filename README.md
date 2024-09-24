@@ -26,7 +26,7 @@
 
 🔭 I’m currently working on ...
   
-An AWS Quiz learn that will storage large amounts of Questions with answers that anyone could use to Study for the cloud Cractioner cert. 
+An AWS quiz platform that will store a large number of questions with answers, which anyone can use to study for the Cloud Practitioner certification
 
   📫 How to reach me: ...
 
